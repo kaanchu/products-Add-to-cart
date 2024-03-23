@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": " MODERN SINGLE SEAT CHAIR",
+    "price": 2999,
+    "image": "image/modern chair.png"
+  },
+  {
+    "id": 2,
+    "name": " MODERN DRESSING TABLE",
+    "price": 12999,
+    "image": "image/dressing table.png"
+  },
+  {
+    "id": 3,
+    "name": " SMALL SIZE SIDE TABLE",
+    "price": 290,
+    "image": "image/side Table.png"
+  },
+  {
+    "id": 4,
+    "name": " SINGLE SEAT CHAIR",
+    "price": 200,
+    "image": "image/single chair.png"
+  },
+  {
+    "id": 5,
+    "name": " MODERN WALL SHELF",
+    "price": 300,
+    "image": "image/wall shelf.png"
+  },
+  {
+    "id": 6,
+    "name": " WOODEN LONG CHAIR",
+    "price": 200,
+    "image": "image/long chair.png"
+  },
+  {
+    "id": 7,
+    "name": " MODERN WOODEN MIRROR ",
+    "price": 200,
+    "image": "image/wooden frame.png"
+  },
+  {
+    "id": 8,
+    "name": " WOODEN SINGLE SEAT SOFA",
+    "price": 200,
+    "image": "image/wooden sofa.png"
+  }
+]
